@@ -5,28 +5,28 @@ var member = [
   },
   {
     "name": "dataleaks",
-    "value": "100000"
+    "phone": "100000"
 }, {
     "name": "leaklist",
-    "value": "25000"
+    "phone": "25000"
 }, {
     "name": "dcrypt",
-    "value": "125000"
+    "phone": "125000"
 }, {
     "name": "fuckingbitch",
-    "value": "25000"
+    "phone": "25000"
 }, {
     "name": "soz",
-    "value": "50000"
+    "phone": "50000"
 }, {
     "name": "okk",
-    "value": "9450"
+    "phone": "9450"
 }, {
     "name": "e4e",
-    "value": "2500"
+    "phone": "2500"
 }, {
     "name": "uncp",
-    "value": "1500"
+    "phone": "1500"
 }, {
     "name": "copd",
     "value": "111500"
@@ -198,10 +198,10 @@ var member = [
 }, {
     "name": "bigtitties",
     "value": "75000"
-}, {
+}, 
+  {
     "name": "payslip",
     "value": "20000"
-}]
   },
   {
     "phone": "No.9092",
